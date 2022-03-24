@@ -1,0 +1,333 @@
+Port 0: (44.30, 42.30)
+  BasicContainer: 11 35
+  RefrigeratedContainer: 31
+  LiquidContainer: 2 27
+  Ship 27: 0.00
+  Ship 54: 0.00
+Port 1: (74.27, 76.65)
+  RefrigeratedContainer: 4
+  LiquidContainer: 1 14
+  Ship 1: 2786.17
+    RefrigeratedContainer: 0
+  Ship 6: 2186.31
+Port 2: (32.83, 53.21)
+  BasicContainer: 12
+  HeavyContainer: 3
+  LiquidContainer: 5
+Port 3: (30.84, 4.96)
+  RefrigeratedContainer: 6 17 25
+  Ship 10: 961.18
+  Ship 98: 0.00
+Port 4: (27.46, 15.29)
+  RefrigeratedContainer: 7 91
+  LiquidContainer: 73
+  Ship 12: 460.17
+  Ship 21: 0.00
+Port 5: (52.73, 32.32)
+  LiquidContainer: 52
+Port 6: (79.04, 64.01)
+  RefrigeratedContainer: 8 10 15 87
+  Ship 2: 2237.21
+Port 7: (52.38, 37.33)
+  BasicContainer: 9
+  Ship 41: 707.66
+Port 8: (64.40, 62.04)
+  Ship 50: 0.00
+Port 9: (81.07, 76.28)
+  HeavyContainer: 88
+  Ship 13: 0.00
+  Ship 22: 567.90
+  Ship 31: 0.00
+  Ship 34: 0.00
+Port 10: (78.08, 21.06)
+  HeavyContainer: 96
+  RefrigeratedContainer: 37
+  Ship 81: 0.00
+Port 11: (71.86, 64.91)
+  RefrigeratedContainer: 72
+  Ship 66: 756.75
+Port 12: (58.14, 45.49)
+  BasicContainer: 13
+  LiquidContainer: 16
+  Ship 4: 780.62
+  Ship 7: 368.19
+  Ship 14: 2919.67
+Port 13: (82.20, 47.31)
+  LiquidContainer: 56
+  Ship 35: 908.42
+  Ship 74: 0.00
+  Ship 82: 0.00
+  Ship 83: 338.53
+Port 14: (67.49, 75.21)
+  BasicContainer: 19
+  RefrigeratedContainer: 24
+  Ship 19: 687.78
+  Ship 28: 2193.15
+Port 15: (29.21, 41.77)
+  BasicContainer: 43
+  Ship 18: 0.00
+  Ship 72: 0.00
+Port 16: (18.74, 77.96)
+  RefrigeratedContainer: 28
+  LiquidContainer: 22 79
+  Ship 99: 0.00
+Port 17: (41.05, 2.97)
+  RefrigeratedContainer: 20 40
+  Ship 58: 358.94
+Port 18: (58.84, 74.81)
+  RefrigeratedContainer: 23
+  LiquidContainer: 62
+  Ship 102: 0.00
+Port 19: (13.54, 42.03)
+  HeavyContainer: 18
+  RefrigeratedContainer: 61
+  Ship 15: 39.34
+  Ship 29: 935.17
+Port 20: (94.55, 85.91)
+  RefrigeratedContainer: 92
+  LiquidContainer: 94
+  Ship 30: 0.00
+Port 21: (7.41, 9.65)
+  Ship 24: 827.57
+  Ship 46: 542.61
+Port 22: (28.15, 10.85)
+  Ship 11: 1839.24
+  Ship 23: 141.07
+Port 23: (24.51, 30.52)
+  Ship 20: 1020.38
+Port 24: (79.85, 33.37)
+  HeavyContainer: 75
+  Ship 45: 1453.20
+Port 25: (21.73, 96.07)
+  Ship 16: 3079.25
+Port 26: (92.44, 16.54)
+  RefrigeratedContainer: 36
+Port 27: (64.08, 59.26)
+  RefrigeratedContainer: 21
+  Ship 5: 1991.29
+Port 28: (79.60, 7.52)
+  BasicContainer: 47 64
+  Ship 43: 0.00
+Port 29: (28.47, 91.83)
+  BasicContainer: 63
+  HeavyContainer: 34
+  RefrigeratedContainer: 26
+  Ship 64: 1310.24
+Port 30: (33.37, 10.88)
+  HeavyContainer: 69
+  Ship 17: 0.00
+  Ship 47: 1803.58
+Port 31: (42.27, 86.64)
+  LiquidContainer: 30
+Port 32: (25.25, 64.75)
+  Ship 32: 1371.86
+  Ship 38: 1575.84
+Port 33: (76.42, 87.49)
+  RefrigeratedContainer: 42
+  Ship 33: 404.34
+Port 34: (33.02, 45.28)
+  RefrigeratedContainer: 33
+  LiquidContainer: 84 89
+Port 35: (60.71, 86.16)
+  BasicContainer: 29 60 86
+  HeavyContainer: 95
+  Ship 60: 0.00
+Port 36: (7.57, 20.15)
+  RefrigeratedContainer: 44
+  Ship 73: 0.00
+  Ship 84: 209.13
+Port 37: (91.51, 10.87)
+  LiquidContainer: 85
+  Ship 25: 384.40
+  Ship 87: 0.00
+  Ship 90: 415.76
+Port 38: (28.21, 20.74)
+  HeavyContainer: 32
+  Ship 39: 0.00
+  Ship 110: 0.00
+Port 39: (53.26, 8.51)
+Port 40: (77.44, 71.42)
+  Ship 53: 0.00
+Port 41: (25.36, 35.14)
+  LiquidContainer: 67
+  Ship 36: 0.00
+  Ship 51: 0.00
+Port 42: (44.95, 96.18)
+Port 43: (92.31, 8.82)
+  Ship 37: 0.00
+  Ship 109: 0.00
+Port 44: (11.81, 3.10)
+Port 45: (39.86, 27.97)
+  RefrigeratedContainer: 74
+  Ship 101: 0.00
+Port 46: (42.27, 97.76)
+  HeavyContainer: 68
+  Ship 61: 963.61
+  Ship 63: 129.03
+Port 47: (68.16, 13.59)
+  RefrigeratedContainer: 46
+  Ship 108: 0.00
+Port 48: (87.41, 16.60)
+  Ship 55: 134.80
+Port 49: (89.63, 74.50)
+  RefrigeratedContainer: 49
+Port 50: (13.89, 44.85)
+  BasicContainer: 41
+  HeavyContainer: 39
+  LiquidContainer: 45
+  Ship 56: 249.53
+Port 51: (17.32, 37.62)
+  RefrigeratedContainer: 76
+  Ship 9: 315.13
+  Ship 48: 157.80
+  Ship 76: 0.00
+Port 52: (27.99, 37.02)
+  RefrigeratedContainer: 57
+Port 53: (99.67, 97.87)
+Port 54: (77.90, 40.95)
+  HeavyContainer: 97
+Port 55: (32.92, 8.68)
+  Ship 111: 0.00
+Port 56: (55.41, 62.74)
+  Ship 40: 0.00
+  Ship 78: 621.53
+Port 57: (5.70, 53.53)
+  RefrigeratedContainer: 38
+  Ship 49: 385.75
+Port 58: (79.21, 89.06)
+  HeavyContainer: 51
+  Ship 85: 54.26
+  Ship 96: 0.00
+Port 59: (68.82, 24.10)
+  LiquidContainer: 59
+  Ship 92: 0.00
+  Ship 103: 0.00
+Port 60: (62.55, 54.05)
+  Ship 3: 320.25
+  Ship 44: 0.00
+  Ship 62: 0.00
+Port 61: (82.62, 50.17)
+Port 62: (38.82, 22.99)
+  BasicContainer: 48
+  Ship 42: 649.30
+  Ship 69: 320.42
+  Ship 95: 660.88
+Port 63: (2.24, 79.01)
+  Ship 91: 0.00
+Port 64: (47.64, 49.20)
+  Ship 52: 0.00
+  Ship 59: 0.00
+  Ship 104: 0.00
+Port 65: (6.25, 37.19)
+  Ship 107: 0.00
+Port 66: (41.19, 3.84)
+Port 67: (62.34, 95.60)
+  RefrigeratedContainer: 70
+  LiquidContainer: 55
+  Ship 57: 0.00
+  Ship 75: 363.53
+Port 68: (32.23, 40.28)
+  Ship 65: 0.00
+Port 69: (77.03, 46.43)
+Port 70: (97.48, 0.50)
+Port 71: (5.22, 24.17)
+Port 72: (7.05, 5.76)
+Port 73: (91.11, 85.10)
+  HeavyContainer: 54
+  LiquidContainer: 50
+  Ship 68: 0.00
+Port 74: (51.71, 99.55)
+Port 75: (53.03, 67.09)
+Port 76: (62.90, 68.32)
+Port 77: (11.88, 37.03)
+Port 78: (13.29, 63.20)
+  HeavyContainer: 66
+Port 79: (14.57, 16.98)
+  Ship 71: 0.00
+Port 80: (82.15, 21.34)
+  BasicContainer: 53
+Port 81: (28.21, 82.38)
+  Ship 70: 0.00
+Port 82: (55.98, 32.31)
+Port 83: (81.35, 49.43)
+  Ship 26: 42.39
+Port 84: (87.03, 39.85)
+  Ship 67: 379.50
+Port 85: (33.57, 44.45)
+  HeavyContainer: 90
+Port 86: (19.51, 51.71)
+  Ship 88: 0.00
+Port 87: (28.19, 15.11)
+Port 88: (71.47, 83.27)
+Port 89: (14.73, 37.93)
+  BasicContainer: 71
+  RefrigeratedContainer: 58
+  Ship 89: 0.00
+Port 90: (52.56, 82.93)
+  Ship 77: 842.64
+  Ship 80: 79.49
+Port 91: (99.98, 57.21)
+Port 92: (25.54, 46.66)
+  Ship 100: 0.00
+Port 93: (13.75, 10.83)
+  Ship 79: 0.00
+Port 94: (97.04, 36.51)
+  BasicContainer: 98
+Port 95: (58.90, 35.98)
+  Ship 0: 34.81
+Port 96: (98.43, 22.88)
+  Ship 86: 0.00
+  Ship 97: 0.00
+Port 97: (46.14, 5.71)
+Port 98: (11.77, 29.72)
+  LiquidContainer: 77
+Port 99: (52.36, 81.75)
+  RefrigeratedContainer: 93
+  Ship 8: 1917.81
+  Ship 105: 0.00
+Port 100: (96.89, 33.97)
+  HeavyContainer: 65 83
+Port 101: (72.26, 83.20)
+Port 102: (40.55, 56.30)
+Port 103: (10.78, 45.81)
+Port 104: (81.93, 66.11)
+Port 105: (76.83, 46.91)
+  LiquidContainer: 80
+Port 106: (10.76, 78.75)
+Port 107: (1.29, 9.40)
+  LiquidContainer: 78
+  Ship 93: 981.03
+  Ship 94: 0.00
+Port 108: (25.18, 56.93)
+Port 109: (88.44, 30.56)
+Port 110: (81.11, 91.28)
+Port 111: (66.03, 46.48)
+Port 112: (41.37, 72.39)
+Port 113: (48.09, 12.86)
+Port 114: (96.07, 79.67)
+Port 115: (43.71, 80.62)
+  RefrigeratedContainer: 82
+Port 116: (4.25, 77.02)
+Port 117: (53.23, 93.57)
+Port 118: (40.81, 88.64)
+Port 119: (41.62, 82.64)
+Port 120: (75.24, 97.04)
+  RefrigeratedContainer: 81
+Port 121: (18.04, 5.59)
+Port 122: (80.59, 74.36)
+Port 123: (55.52, 50.02)
+Port 124: (44.10, 97.56)
+Port 125: (10.63, 79.71)
+  Ship 106: 0.00
+Port 126: (19.85, 18.78)
+Port 127: (93.27, 26.74)
+Port 128: (16.36, 37.42)
+Port 129: (87.00, 4.16)
+Port 130: (9.56, 37.44)
+Port 131: (42.80, 65.53)
+Port 132: (46.16, 1.37)
+Port 133: (25.72, 31.83)
+Port 134: (22.06, 21.09)
+Port 135: (18.43, 11.44)
+Port 136: (34.66, 63.15)
+Port 137: (54.16, 1.62)

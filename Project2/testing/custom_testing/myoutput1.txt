@@ -1,0 +1,33 @@
+Port 0: (62.30, 27.41)
+  RefrigeratedContainer: 1 10
+  Ship 2: 2534.03
+  Ship 3: 528.48
+  Ship 6: 0.00
+  Ship 7: 0.00
+Port 1: (64.07, 63.93)
+  BasicContainer: 2 3
+  RefrigeratedContainer: 4
+  LiquidContainer: 0
+  Ship 1: 1284.51
+    LiquidContainer: 8
+  Ship 10: 0.00
+Port 2: (77.01, 43.41)
+  RefrigeratedContainer: 7
+  LiquidContainer: 5
+  Ship 4: 0.00
+Port 3: (53.22, 75.20)
+Port 4: (15.17, 82.94)
+  BasicContainer: 13
+  RefrigeratedContainer: 12
+  LiquidContainer: 6
+  Ship 8: 903.47
+Port 5: (87.54, 71.72)
+Port 6: (3.92, 39.07)
+  RefrigeratedContainer: 9
+  Ship 5: 0.00
+  Ship 9: 572.61
+Port 7: (74.53, 79.48)
+  Ship 0: 213.75
+  Ship 11: 0.00
+Port 8: (49.49, 42.01)
+  RefrigeratedContainer: 11
