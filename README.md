@@ -1,7 +1,3 @@
-Here is the README.md for your CMPE160 - Introduction to Object Oriented Programming course repository:
-
----
-
 # CMPE160 - Introduction to Object Oriented Programming
 
 **Instructor:** Tuna Tuğcu
@@ -56,7 +52,7 @@ A project that simulates a marketplace to teach OOP concepts in a functional pro
    java -cp bin Main
    ```
 
-   ### Note: Check the project description for any additional files that need to be compiled, and the structure of the project.
+   #### Note: Check the project description for any additional files that need to be compiled, and the structure of the project.
 
 ## Repository Structure
 
