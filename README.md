@@ -1,6 +1,7 @@
 # CMPE160 - Introduction to Object Oriented Programming
 
 **Instructor:** Tuna Tuğcu
+
 **Term:** Spring 21
 
 This repository contains my work for the projects assigned as part of the CMPE160 - Introduction to Object Oriented Programming course. Each project has been implemented using Java, and Java 17 or higher should be sufficient to run the projects.
